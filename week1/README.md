@@ -1,5 +1,11 @@
-my-program.py
+Astro 5160 Week 1 Assignments:
 
-Very basic python program which simply returns a hello message.
+my-program.py:
+  Very basic python program which simply returns a hello message.
+  Run by typing 'python my-program.py' after cd'ing to the containing directory in Unix.
 
-Run by typing 'python my-program.py' after cd'ing to the containing directory in Unix.
+graphing-calculator.py:
+  Two functions:
+    -calculate the value of a specific quadratic function
+    -plot the reslult of that function, from x = 0 to 100
+  Run with 'python graphing-calculator.py'
