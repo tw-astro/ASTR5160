@@ -5,5 +5,5 @@ my-program.py:
     Run by typing 'python my-program.py' after cd'ing to the containing directory in Unix.
 
 graphing-calculator.py:
-    Calculate the value of a specific quadratic function, and Plot the reslult of that function, from x = 0 to 100
+    Calculate the value of a specific quadratic function, and Plot the reslult of that function, from x = 0 to 100.
     Run with 'python graphing-calculator.py'
