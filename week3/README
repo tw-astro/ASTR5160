@@ -1,9 +1,16 @@
 Week 3 Submissions:
 
 1. wcs_coord_transforms.py
--Simply run using 'python wcs_coord_transforms'
+-Simply run using 'python wcs_coord_transforms.py'
 -Displays coordinates for selected object in RA/Dec and Cartesian coordinates
   -To change object for which to retrieve WCS coords, simply change the 'name' variable in __main__
 -Calculates RA/Dec of Galactic center
 -Plots Galactic coords at zenith from Laramie over course of year
 
+2. dust_correction.py
+-Requires downloading dust maps and specifying directory
+  (currently set to $HOME/Documents/Classes/Techniques_II/dust_maps/ )
+-Run using 'python dust_correction.py'
+-Plots color-color diagrams for two given quasars
+-Performs dust-correction for both sources and re-plots color-color diagram for dust-corrected values
+-Displays dust map for vicinity of each source
