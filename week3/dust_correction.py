@@ -130,6 +130,3 @@ if __name__ == '__main__':
         plt.colorbar()
         plt.plot( ras[i], decs[i], marker='+', c='w', markersize=10)
         plt.show()
-
-dust_correction.py
-Displaying dust_correction.py.
