@@ -2,4 +2,8 @@ Week 3 Submissions:
 
 1. wcs_coord_transforms.py
 -Simply run using 'python wcs_coord_transforms'
--To change name of object for which to retrieve WCS coords, simply change the 'name' variable in __main__
+-Displays coordinates for selected object in RA/Dec and Cartesian coordinates
+  -To change object for which to retrieve WCS coords, simply change the 'name' variable in __main__
+-Calculates RA/Dec of Galactic center
+-Plots Galactic coords at zenith from Laramie over course of year
+
