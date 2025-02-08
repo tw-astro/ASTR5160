@@ -1,23 +1,3 @@
-Conversation opened. 2 messages. 1 message unread.
-
-Skip to content
-Using Gmail with screen readers
-1 of 7,215
-Fw: Program
-Inbox
-
-Tony Weinbeck
-Attachments5:31 PM (2 hours ago)
-From: Tony Weinbeck <aweinbec@uwyo.edu> Sent: Friday, February 7, 2025 5:31 PM To: Tony Weinbeck <aweinbec@uwyo.edu> Subject: Program
-
-Tony Weinbeck <weinbeck@alum.mit.edu>
-Attachments
-7:54 PM (0 minutes ago)
-to Tony
-
-
- One attachment
-  •  Scanned by Gmail
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
