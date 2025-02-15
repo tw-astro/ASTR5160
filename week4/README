@@ -1,0 +1,11 @@
+Week 4 Submissions:
+
+1. map_projections.py
+-Simply run using 'python map_projections.py'
+-Generates a specified number of random points on the sky, and plots using three different projections
+
+2. find_matching_sources.py
+-Run using 'python find_matching_sources.py'
+-Part 1: Finds the angle between two given sky coordinates
+-Part 2: Generates two sets of data within a specifid RA/Dec window, and plots them
+-Part 3: Find points which overlap within given distance between set 1 and set 2, and overlays their plot
