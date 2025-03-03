@@ -89,6 +89,6 @@ if __name__ == '__main__':
 
 
     # Part 4:    
-    print( '\nPart 3: ')
+    print( '\nPart 4: ')
     print_formatted_vectors( np.array([v1, v2, v3]) )
     # Formatting is basically the same, except I'm outputting everything as floats    
