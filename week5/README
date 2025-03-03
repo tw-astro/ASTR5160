@@ -1,0 +1,15 @@
+Week 5 Submissions:
+
+1. Healpix.py
+-Requirements: numpy, healpy (Python implementation of HEALPix)
+-Generates a bunch of points on the celestial sphere, and distributes them across a given HEALPix projection
+-Also plots up all data points on an all-sky projection, and shows specific HEALPix pixels in various colors
+-Determines which HEALPix pixels at Nside=2 are contained within pixel 5 of Nside=1 projection
+-Then I got curious about how quickly the distribution of points across HEALPix pixels converges to a truly
+    uniform distribution. I'd planned to code this up but decided against it cause I was feeling like crap. I'd
+    like to come back to this though to basically test/quantify the Central Limit Theorem
+
+2. Spherical_Caps.py
+-Requirements: astropy, numpy
+-Determines the 4-vector associated with a couple given spherical caps of given RA, dec, and radius
+-Prints out the vectors with a given formatting (presumably to be used in a future assignment)
