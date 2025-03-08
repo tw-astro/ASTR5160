@@ -1,0 +1,11 @@
+Week 6 Submissions:
+
+1. Mangle.py
+-Requirements: pymangle  
+   -To install: 'pip install pymangle'
+-Given two spherical caps, creates Mangle files for various combinations of intersections, unions, 
+   and complements of the caps, and plots the comparisons
+
+2. General_Masks.py
+-Still working on this... I was still out and very sick most of this week again... If doesn't improve by 
+   Monday I'm heading back to the med center to see what's up
