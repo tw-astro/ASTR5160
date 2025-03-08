@@ -7,5 +7,7 @@ Week 6 Submissions:
    and complements of the caps, and plots the comparisons
 
 2. General_Masks.py
--Still working on this... I was still out and very sick most of this week again... If doesn't improve by 
-   Monday I'm heading back to the med center to see what's up
+-Same requirements as above
+-Simply creates two lat-long rectangles, calculates their areas, and outputs both to a Mangle file
+-Currently only includes required sections 1–2 (was still sick this whole week; it's been really not fun)
+  -if have time, will come back and complete tasks 3-5
