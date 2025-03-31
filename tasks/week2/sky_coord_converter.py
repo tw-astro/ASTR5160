@@ -10,9 +10,9 @@ import numpy as np
 # Retrieve and print coordinates for a given object
 def get_coords( name ):
     # Look up by name
-    coords = SkyCoord.from_name("M57")  
+    coords = SkyCoord.from_name( name )  
     # Print in degs
-    print( '\nRing Nebula RA/Dec\n\n   in degrees: \n  ' \
+    print( '\n' +name +' RA/Dec\n\n   in degrees: \n  ' \
             +coords.to_string( 'decimal' ) )
     # Print in hms, d-am-as
     print( '   in hours-mins-sec, deg-arcmin-arcsec: \n  ' 
