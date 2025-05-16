@@ -1,0 +1,18 @@
+Week 8 Submissions:
+
+1. sdss_scatter_plot.py
+-Use SDSS SQL Query (via https://skyserver.sdss.org/dr9/en/help/howto/search/simplequery.asp)
+  to select sources meeting specific criteria
+-Plot all sources matching query
+-Plot all sources with size proportional to brightness
+*Note: must have pandas module installed to handle data frames
+
+2. cross_match_surveys.py
+-Reads and plots all sources from local VLA FIRST file
+-Runs remote SDSS query script to find counterparts within 1.2" of first 100 FIRST sources
+   (must have previously downloaded 'sdssDR9query.py' into local directory)
+-Lists all Legacy Survey sweep files needed to match first 100 FIRST sources to
+   Legacy Survey sources (again must have access to /d/scratch)
+*Note: the decode_sweep_name() and is_in_box() functions taken from Adam's DESI repository'
+*Note: must be able to access /d/scratch for relevant file
+
