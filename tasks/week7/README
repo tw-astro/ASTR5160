@@ -1,0 +1,15 @@
+Week 7 Submissions:
+
+0. (not a file, but...)
+-created new issue to update Readme file
+-created new github branch named improveme_readme
+-committed files to improveme_readme branch
+-merged new pull request with main to close issue
+
+1. call_earlier_function.py
+-revised directory structure to match Adam's, including adding 
+   an __init__.py file for each directory containing a python script
+-added the top-level directory to my PYTHONPATH environment variable, 
+   within my .bashrc file
+-to test functionality, created new script which references a 
+   previous file from Week 2
