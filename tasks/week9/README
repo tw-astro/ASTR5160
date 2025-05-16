@@ -1,0 +1,19 @@
+Week 9 Submissions:
+
+1. magnitude_systems.py
+-Calculates ugriz magnitudes for a given Landolt standard star, based on
+   UBVRI colors/magnitudes
+-Finds matching source in the Legacy Survey sweeps files
+-Converts Legacy Survey flux in maggies to appropriate magnitude
+
+2. classification.py
+-Read in data for positions of spectroscopically confirmed stars and qsos
+-Match positions for each type of object with SDSS Sweep Files
+-Convert flux for each object to dust-corrected magnitudes
+-Plot on color-color diagrams
+-Determine if we can distinguish between objects using a color cut
+-Saves plots with color cut to png files
+
+NOTES:
+-must have access to /d/scratch directory in order to download
+   relevant sweeps and data files
